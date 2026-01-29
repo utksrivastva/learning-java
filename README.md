@@ -1,2 +1,4 @@
 # Learning Java
-- Repository for learning Java.
+
+### Solving problem in Java
+- Two Sum
